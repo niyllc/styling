@@ -15,7 +15,7 @@ Every good code should be readable. We are adressing this problem by adding requ
 <div class="text-center color-red-light"></div> 
 ```
 
-Which one is more readable? Ofcourse the one on the bottom is! It has proper classnames and it looks better. The quality of the code is not only performance and speed, it is also the quality and the readability.
+Which one is more readable? Ofcourse the one on the bottom is! It has proper classnames and it looks better. The quality of the code is not only performance and speed, it is also the readability.
 
 ### How to access this guide
 
