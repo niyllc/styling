@@ -20,6 +20,3 @@ Which one is more readable? Ofcourse the one on the bottom is! It has proper cla
 ### How to access this guide
 
 We are slowly writing this guide. You can access it through the Wiki and the folder named after the programming language. General concepts are in the folder named `shared`
-
-<hr>
-&copy; NIY 2023-2024
